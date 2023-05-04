@@ -1,0 +1,20 @@
+.cont {
+  width: 50%;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 6px;
+  margin: 6px;
+  color: red;
+}
+
+.cont:hover {
+  cursor: pointer;
+}
+
+.cont .orange {
+  color: rgb(130, 30, 30);
+}
+
+.cont .green {
+  color: green;
+}
